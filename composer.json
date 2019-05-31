@@ -1,0 +1,20 @@
+{
+    "name": "swamp-thing-season-1-episode-1-streaming-tv/dc-channel",
+    "description": "WATCH ONLINE Swamp Thing Season 1 Episode 1 Full Free Putlocker S01E01 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["Swamp Thing Season 1 Episode 1 Online Watch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/5HGfaz4MX3",
+            "homepage": "https://t.co/5HGfaz4MX3",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
